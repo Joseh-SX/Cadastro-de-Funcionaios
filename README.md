@@ -1,4 +1,4 @@
-# Sistema de Cadastro de Funcionários - Sistematização POO
+Sistema de Cadastro de Funcionários
 
 Este projeto é um sistema simples de cadastro de funcionários desenvolvido em Java. O sistema permite cadastrar, consultar e listar funcionários.
 
